@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.llfbandit.record">
+  package="com.fajebdaa.ielearn">
 
     <uses-permission android:name="android.permission.RECORD_AUDIO" />
 </manifest>
